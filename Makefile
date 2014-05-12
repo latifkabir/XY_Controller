@@ -1,5 +1,5 @@
 #Latiful Kabir
-#Makefile for ReadBinary version:7 
+#Makefile for XY Controller 
 #Date:05.09.14
 
 
